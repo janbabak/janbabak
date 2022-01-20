@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @babakjan
 - 👀 I’m interested in web development, especially Java and JavaScript
 - 👨‍🎓 I’m student of software ingeneering at [Faculty of Informatics at Czech Technical University](https://fit.cvut.cz)
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking for summer internship in 2022
 - 📫 reach me at babakhonza@gmail.com
 
