@@ -42,6 +42,8 @@
 
 ## Favorite tools
 
+<p align="center">
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
@@ -77,3 +79,5 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=flat&logo=google&logoColor=white)
 
 <a href="#"><img src="https://img.shields.io/badge/google-4285F4?style=flat&logo=google&logoColor=white"></a>
+
+</p>
