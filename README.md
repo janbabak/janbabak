@@ -1,7 +1,7 @@
 # 👨‍💻 Full-stack web developer
 
 -   👋 Hi, my name is Jan Babák, and I specialize in web development.
--   🥰 I enjoy working with technologies such as Typescript, JavaScript, Java, Spring Boot, and Swift.
+-   🥰 I enjoy working with technologies such as Java, Spring, Typescript, JavaScript, and Swift.
 -   👨‍🎓 I’m a student of software engineering at the [Faculty of Informatics at Czech Technical University](https://fit.cvut.cz).
 -   👀 I am looking for a part-time job in Prague.
 -   📫 reach me at [babakhonza@gmail.com](mailto:babakhonza@gmail.com) or at [linkedIn](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
