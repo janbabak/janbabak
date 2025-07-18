@@ -1,9 +1,8 @@
 # 👨‍💻 Full-stack web developer
 
--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, my name is Jan Babák, and I specialize in web development.
+-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, my name is Jan Babák, and I specialize in software engineering.
 -   🥰 I enjoy working with technologies such as Java, Spring, Typescript, JavaScript, and Swift.
--   👨‍🎓 I’m a student of web engineering at the [Faculty of Information technology at Czech Technical University](https://fit.cvut.cz).
--   👨‍💻 I work as a backend software engineer at [Azul Systems](https://www.azul.com)
+-   👨‍💻 I work as a Software engineer at [Azul Systems](https://www.azul.com) on [Intelligence cloud](https://www.azul.com/products/intelligence-cloud/) solution.
 -   📫 reach me at [babakhonza@gmail.com](mailto:babakhonza@gmail.com) or at [linkedIn](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
 
 ## Favorite languages & frameworks
