@@ -9,7 +9,7 @@ I work as a **Software Engineer** at [Azul Systems](https://www.azul.com) on the
 ### 📫 Contact
 
 -   Email: [babakhonza@gmail.com](mailto:babakhonza@gmail.com)
--   LinkedIn: [linkedIn](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
+-   LinkedIn: [linkedIn](https://www.linkedin.com/in/janbabak/)
 
 ## Tech stack
 
