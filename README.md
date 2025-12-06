@@ -1,6 +1,6 @@
 # 👨‍💻 Backend Software Engineer
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! I’m **Jan Babák**, a backend software engineer focused on building reliable and scalable systems in **Java**. I enjoy solving complex backend challenges and building clean, maintainable architecture.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! I’m Jan Babák, a backend software engineer specializing in Java and Spring Boot. I focus on building reliable, scalable services using Java, Spring Boot, AWS, PostgreSQL, and modern DevOps tooling.
 
 ### 💼 Currently
 I work as a **Software Engineer** at [Azul Systems](https://www.azul.com) on the [Intelligence cloud](https://www.azul.com/products/intelligence-cloud/) **SaaS** platform, contributing to backend development and performance-focused engineering.
