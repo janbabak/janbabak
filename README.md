@@ -9,7 +9,7 @@ I work as a **Software Engineer** at [Azul Systems](https://www.azul.com) on the
 - Email: [babakhonza@gmail.com](mailto:babakhonza@gmail.com)
 - LinkedIn: [linkedIn](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
 
-## Favorite languages & frameworks
+## Tech stack
 
  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white&color=f1931c)](https://www.java.com/en/)
  [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)](https://spring.io)
